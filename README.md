@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nrajesh593
-- 👀 I’m interested in javascript and pythong coding
+- 👀 I’m interested in javascript and python coding
 - 🌱 I’m currently learning Django and javascript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me nrajesh593@gmail.com
